@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar img{
+    height: 60px;
+}
+
+.navbar .container{
+    background-color: rgb(252, 246, 230);
+    border-radius: 10px;
+}
+
+.carousal .container{
+    background-color: rgb(208, 246, 249);
+    border-radius: 10px;
+}
+
+.carousel-item {
+    padding: 50px;
+}
+
+.catagory img{
+    
+    border-radius: 10px;
+}
+.cards h5{
+    font-weight: 600;
+}
+
+.cards .row .col {
+    border: none;
+}
+.cards .row .col .card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.subscribe .container{
+    background-color: rgb(208, 246, 249);
+    border-radius: 10px;
+}
+
+.subscribe form{
+    padding-top: 5px;
+}

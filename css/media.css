@@ -1,0 +1,43 @@
+@media (max-width:768px){
+
+    .carousal h1{
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .carousal p{
+        font-size: 13px;
+    }
+
+    .carousal button{
+        font-size: 15px;
+    }
+
+    .cards .card-body{
+        padding-top: 0%;
+        margin-top: 0%;
+    }
+    .cards h5{
+        font-size: 15px;
+        font-weight: 600;
+        padding-bottom: 5px;
+        margin: 0%;
+    }
+    .cards p{
+        font-size: 13px;
+        margin: 0%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    
+    .cards button{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:1000px){
+    .subscribe h1{
+        font-size: 25px;
+        font-weight: 600;
+        
+    }
+}
